@@ -1,0 +1,17 @@
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\AnimeNotifierLite.exe
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\AnimeNotifierLite.deps.json
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\AnimeNotifierLite.runtimeconfig.json
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\AnimeNotifierLite.dll
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\AnimeNotifierLite.pdb
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.csproj.AssemblyReference.cache
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.AssemblyInfoInputs.cache
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.AssemblyInfo.cs
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.csproj.CoreCompileInputs.cache
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.csproj.CopyComplete
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.dll
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\refint\AnimeNotifierLite.dll
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.pdb
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\AnimeNotifierLite.genruntimeconfig.cache
+C:\Users\Zeldris\source\repos\AnimeNotifierLite\AnimeNotifierLite\obj\Debug\net6.0\ref\AnimeNotifierLite.dll
